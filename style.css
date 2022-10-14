@@ -1,0 +1,15 @@
+.CardsContainer { 
+    display:grid;
+   grid-template-columns: repeat(6, 6fr);
+   grid-row-gap: 10px;
+    
+}
+.Card {
+    
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+   
+    
+}

@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../my-project"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../task 06 09"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lesson 19 homework"
+	}
+}
